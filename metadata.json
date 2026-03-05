@@ -1,0 +1,5 @@
+{
+  "name": "행복반 (Happiness Class)",
+  "description": "행복반 학생들을 위한 커뮤니티 플랫폼. 공지사항, 실시간 채팅, 회원 관리 기능을 제공합니다.",
+  "requestFramePermissions": []
+}
